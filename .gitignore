@@ -1,0 +1,8 @@
+__pycache__
+realesrgan-ncnn-vulkan-20220424-ubuntu
+sd-v1-4.ckpt
+outputs
+token
+logs
+lyrics
+models/ldm/stable-diffusion-v1/model.ckpt
